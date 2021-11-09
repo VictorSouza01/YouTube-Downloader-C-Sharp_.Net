@@ -1,4 +1,4 @@
-# YouTube-Downloader-C-_.Net
+# YouTube-Downloader-C#-_.Net
 Software que faz o download de arquivo .mp4 e .mp3 do YouTube
 
 <details><summary><b><kbd>Português</kbd></b></summary>
