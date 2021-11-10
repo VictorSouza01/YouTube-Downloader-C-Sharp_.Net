@@ -5,7 +5,7 @@ Software que faz o download de arquivo .mp4 e .mp3 do YouTube
 
 <b>Downloader de .mp4 e .mp3 em C# .Net</b>
 
-<p>Este software faz o download de arquivos .mp4 e .mp3 apartir da URL de um video do YouTube.</p>
+<p>Este software faz o download de arquivos .mp4 e .mp3 a partir da URL de um video do YouTube.</p>
 
 <b>Linguagens e ferramentas:</b><br>
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
